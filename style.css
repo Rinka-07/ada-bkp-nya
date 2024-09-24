@@ -1,0 +1,13 @@
+#click{
+    background-color: aqua;
+    width:90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    min-height: 50vh;
+    
+}
+a{
+    text-decoration: none;
+}
